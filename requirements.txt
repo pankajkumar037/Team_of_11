@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+groq
+duckduckgo-search
+packaging
+phidata
+sqlalchemy
+uvicorn
+yfinance
+google-generativeai

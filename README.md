@@ -52,7 +52,7 @@ streamlit run app.py
 
 ## 📽️ Demo Video
 
-Check out the demo video to see the app in action! 
+Check out the demo video to see the app in action! demo.mp4
 
 
 ---
